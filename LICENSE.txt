@@ -1,0 +1,16 @@
+DoneCove Example Files Permission v1
+
+Copyright 2026 DoneCove.
+
+Permission is granted, without a fee, to use, copy, modify and redistribute the
+original example subtitle files and accompanying README, manifest, checksum list
+and explanatory text in this sample package, for personal, educational and
+commercial purposes. Attribution is appreciated but is not required.
+
+This permission applies only to these example materials. It does not license
+DoneCove product source code, services, trademarks or third-party material. It
+does not imply endorsement of a derivative product. The materials are provided
+as-is, without warranty; verify them for your own application.
+
+The package contains fictional teaching material, not customer files, AI quality
+measurements, player certifications or evidence of synchronization with a video.
